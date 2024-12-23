@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on C++ projects
 - 📫 How to reach me yunzhe.zheng39@myhunter.cuny.edu
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: <3
+- ⚡ Fun fact: C++ is the best language!
 
 <!---
 YunzheOVE/YunzheOVE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
