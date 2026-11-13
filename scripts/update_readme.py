@@ -64,6 +64,8 @@ def describe(event):
     """One readable line for a public event, or None to skip it."""
     kind, payload = event["type"], event.get("payload", {})
     repo = event["repo"]["name"]
+    if repo.split("/")[-1].lower() in SKIP:  # pushes to this profile repo are just noise
+        return None
     link = f"[{repo}](https://github.com/{repo})"
     if kind == "PushEvent":
         return f"Pushed to {link}"
@@ -77,8 +79,6 @@ def describe(event):
         return f"{payload['action'].capitalize()} an issue in {link}"
     if kind == "ReleaseEvent":
         return f"Released {payload.get('release', {}).get('tag_name', 'a new version')} of {link}"
-    if kind == "WatchEvent":
-        return f"Starred {link}"
     if kind == "ForkEvent":
         return f"Forked {link}"
     return None
