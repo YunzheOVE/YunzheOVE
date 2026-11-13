@@ -19,7 +19,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       # 3D contribution calendar -> profile-3d-contrib/*.svg
       - uses: yoshi389111/github-profile-3d-contrib@latest
@@ -27,8 +27,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      # "Currently building" + "last run" sections
-      - uses: actions/setup-python@v5
+      # "Currently building", "Recent activity" and "last run" sections
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Update README sections
@@ -44,12 +44,3 @@ jobs:
           git add -A README.md profile-3d-contrib/
           git diff --cached --quiet || git commit -m "Update profile README"
           git push
-
-      # "Recent activity" section (commits and pushes on its own)
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          GH_USERNAME: ${{ github.repository_owner }}
-          MAX_LINES: 5
-          COMMIT_MSG: "Update recent activity"
