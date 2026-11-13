@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=E6EDF3&center=true&vCenter=true&width=560&lines=Yunzhe+Zheng+%E4%BA%91%E5%93%B2;CS+%2B+Economics+%40+Hunter+College;AI+%2F+ML+%C2%B7+Creative+Technologist;Building+in+Three.js+and+PyTorch" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=1F2328&center=true&vCenter=true&width=560&lines=Yunzhe+Zheng+%E4%BA%91%E5%93%B2;CS+%2B+Economics+%40+Hunter+College;AI+%2F+ML+%C2%B7+Creative+Technologist;Building+in+Three.js+and+PyTorch" />
-  <img alt="Yunzhe Zheng — CS + Economics @ Hunter College, AI/ML, Creative Technologist" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=1F2328&center=true&vCenter=true&width=560&lines=Yunzhe+Zheng+%E4%BA%91%E5%93%B2" />
-</picture>
+<a href="https://yunzhezheng.me"><img alt="Yunzhe Zheng — CS + Economics @ Hunter College · AI/ML · Creative Technologist" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=8B949E&center=true&vCenter=true&width=560&lines=Yunzhe+Zheng+%E4%BA%91%E5%93%B2;CS+%2B+Economics+%40+Hunter+College;AI+%2F+ML+%C2%B7+Creative+Technologist;Building+in+Three.js+and+PyTorch" /></a>
 
 New York, NY
 
@@ -23,6 +19,11 @@ New York, NY
 - **Undergraduate TA**, Intro to Computer Science at Hunter
 - Off the keyboard: hand-drawn art, and turning it into Three.js / WebGL scenes
 
+### Currently building
+
+<!--START_SECTION:building-->
+<!--END_SECTION:building-->
+
 ### Selected work
 
 | Project | What it is | Stack |
@@ -40,14 +41,18 @@ New York, NY
 
 Also: Opacus, NumPy, pandas, sentence-transformers, ChromaDB, Snowflake, MapLibre, Vitest · LLM APIs (Claude, OpenAI, Gemini, Groq, ElevenLabs)
 
+### Recent activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### Contributions, in 3D
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-  <img alt="3D contribution calendar" src="./profile-3d-contrib/profile-gitblock.svg" />
-</picture>
+<img alt="3D contribution calendar, regenerated daily" src="./profile-3d-contrib/profile-night-view.svg" />
 
 <div align="center">
   <sub>More — including the 3D particle universe and my artwork — at <a href="https://yunzhezheng.me">yunzhezheng.me</a></sub>
+  <br />
+<!--START_SECTION:updated-->
+<!--END_SECTION:updated-->
 </div>
