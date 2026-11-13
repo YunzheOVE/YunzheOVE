@@ -50,6 +50,11 @@ Also: Opacus, NumPy, pandas, sentence-transformers, ChromaDB, Snowflake, MapLibr
 ### Recent activity
 
 <!--START_SECTION:activity-->
+1. Starred [perixtar/Tech-OA-Interview-Questions](https://github.com/perixtar/Tech-OA-Interview-Questions) <sub>· 1 day ago</sub>
+2. Pushed to [YunzheOVE/hunter-spatial](https://github.com/YunzheOVE/hunter-spatial) <sub>· 5 days ago</sub>
+3. Pushed to [YunzheOVE/YunzheOVE](https://github.com/YunzheOVE/YunzheOVE) <sub>· 5 days ago</sub>
+4. Pushed to [YunzheOVE/YunzheOVE.github.io](https://github.com/YunzheOVE/YunzheOVE.github.io) <sub>· 5 days ago</sub>
+5. Starred [Rhythia/sound-space-plus](https://github.com/Rhythia/sound-space-plus) <sub>· 17 days ago</sub>
 <!--END_SECTION:activity-->
 
 ### Contributions, in 3D
