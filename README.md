@@ -23,11 +23,11 @@ New York, NY
 
 <!--START_SECTION:building-->
 - **[ascend](https://github.com/YunzheOVE/ascend)** — Local LeetCode-style judge for usaco.guide problems  
-  <sub>`Python` · pushed 19 hours ago</sub>
+  <sub>`Python` · pushed 11 hours ago</sub>
 - **[dp-subgroup-disparity](https://github.com/YunzheOVE/dp-subgroup-disparity)**  
-  <sub>`Python` · pushed 21 hours ago</sub>
+  <sub>`Python` · pushed 1 day ago</sub>
 - **[hunter-spatial](https://github.com/YunzheOVE/hunter-spatial)** — An interactive 3D spatial campus navigator and class wayfinding engine for CUNY Hunter College.  
-  <sub>`TypeScript` · pushed 21 hours ago</sub>
+  <sub>`TypeScript` · pushed 1 day ago</sub>
 <!--END_SECTION:building-->
 
 ### Selected work
@@ -50,8 +50,8 @@ Also: Opacus, NumPy, pandas, sentence-transformers, ChromaDB, Snowflake, MapLibr
 ### Recent activity
 
 <!--START_SECTION:activity-->
-1. Pushed to [YunzheOVE/ascend](https://github.com/YunzheOVE/ascend) <sub>· 19 hours ago</sub>
-2. Pushed to [YunzheOVE/hunter-spatial](https://github.com/YunzheOVE/hunter-spatial) <sub>· 6 days ago</sub>
+1. Pushed to [YunzheOVE/ascend](https://github.com/YunzheOVE/ascend) <sub>· 1 day ago</sub>
+2. Pushed to [YunzheOVE/hunter-spatial](https://github.com/YunzheOVE/hunter-spatial) <sub>· 7 days ago</sub>
 <!--END_SECTION:activity-->
 
 ### Contributions, in 3D
@@ -62,6 +62,6 @@ Also: Opacus, NumPy, pandas, sentence-transformers, ChromaDB, Snowflake, MapLibr
   <sub>More — including the 3D particle universe and my artwork — at <a href="https://yunzhezheng.me">yunzhezheng.me</a></sub>
   <br />
 <!--START_SECTION:updated-->
-<sub>Auto-updated daily by GitHub Actions · last run Nov 14, 2026</sub>
+<sub>Auto-updated daily by GitHub Actions · last run Nov 15, 2026</sub>
 <!--END_SECTION:updated-->
 </div>
