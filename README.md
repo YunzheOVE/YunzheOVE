@@ -23,11 +23,11 @@ New York, NY
 
 <!--START_SECTION:building-->
 - **[hunter-spatial](https://github.com/YunzheOVE/hunter-spatial)** — An interactive 3D spatial campus navigator and class wayfinding engine for CUNY Hunter College.  
-  <sub>`TypeScript` · pushed 1 day ago</sub>
+  <sub>`TypeScript` · pushed 2 days ago</sub>
 - **[ascend](https://github.com/YunzheOVE/ascend)** — Local LeetCode-style judge for usaco.guide problems  
-  <sub>`Python` · pushed 9 days ago</sub>
+  <sub>`Python` · pushed 10 days ago</sub>
 - **[dp-subgroup-disparity](https://github.com/YunzheOVE/dp-subgroup-disparity)**  
-  <sub>`Python` · pushed 11 days ago</sub>
+  <sub>`Python` · pushed 12 days ago</sub>
 <!--END_SECTION:building-->
 
 ### Selected work
@@ -51,8 +51,8 @@ Also: Opacus, NumPy, pandas, sentence-transformers, ChromaDB, Snowflake, MapLibr
 
 <!--START_SECTION:activity-->
 1. Pushed to [YunzheOVE/ascend](https://github.com/YunzheOVE/ascend) <sub>· 11 days ago</sub>
-2. Pushed to [YunzheOVE/dp-subgroup-disparity](https://github.com/YunzheOVE/dp-subgroup-disparity) <sub>· 11 days ago</sub>
-3. Pushed to [YunzheOVE/hunter-spatial](https://github.com/YunzheOVE/hunter-spatial) <sub>· 16 days ago</sub>
+2. Pushed to [YunzheOVE/dp-subgroup-disparity](https://github.com/YunzheOVE/dp-subgroup-disparity) <sub>· 12 days ago</sub>
+3. Pushed to [YunzheOVE/hunter-spatial](https://github.com/YunzheOVE/hunter-spatial) <sub>· 17 days ago</sub>
 <!--END_SECTION:activity-->
 
 ### Contributions, in 3D
@@ -63,6 +63,6 @@ Also: Opacus, NumPy, pandas, sentence-transformers, ChromaDB, Snowflake, MapLibr
   <sub>More — including the 3D particle universe and my artwork — at <a href="https://yunzhezheng.me">yunzhezheng.me</a></sub>
   <br />
 <!--START_SECTION:updated-->
-<sub>Auto-updated daily by GitHub Actions · last run Nov 24, 2026</sub>
+<sub>Auto-updated daily by GitHub Actions · last run Nov 25, 2026</sub>
 <!--END_SECTION:updated-->
 </div>
